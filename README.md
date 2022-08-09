@@ -7,7 +7,7 @@
 <p><strong>Phần 1: Chức năng và yêu cầu cơ bản</strong></p>
 <p><strong>1.<span style="white-space: pre;"> </span>Thiết kế giao diện</strong></p>
 <p>Giao diên được thiết kế đơn giản dễ nhìn chạy trên log conssole</p>
-<p style="font-size: 16px;"><img src="https://firebasestorage.googleapis.com/v0/b/funix-way.appspot.com/o/SE20%2FPRO192x%2FPRO192x_Asm%202.JPG?alt=media&amp;token=74ee7821-0b6b-427a-807b-7277f80e7446" alt="File preview"></p>
+<p style="font-size: 16px;"><img src="https://github.com/NguyenDuongw/StudentPointsApplication/blob/main/description11.JPG" alt="File preview"></p>
 <p><strong>2.<span style="white-space: pre;"> </span>Yêu cầu chức năng cơ bản</strong></p>
 <p>1.<span style="white-space: pre;"> </span>Khi chương trình được chạy, thì đầu tiên, sẽ hiển thị thông báo mô tả ngắn gọn về chương trình để người dùng hiểu được hệ thống này sẽ hoạt động thế nào, có chức năng gì. Ví dụ trong log trên thì thông báo hiển thị là: “This program reads exam/homework scores and reports your overall course grade”.&nbsp;</p>
 <p>2.<span style="white-space: pre;"> </span>Sau đó, người dùng sẽ nhập điểm thi giữa kỳ - Midterm: Trong điểm thi giữa kỳ thì thông tin cần nhập là:&nbsp;</p>
