@@ -4,11 +4,11 @@
 <h3>Mô tả ứng dụng</h3>
 <p>Grade Student là ứng dụng cho phép người dùng nhập thông tin về điểm số của sinh viên sau đó hệ thống sẽ tính toán để đưa ra Grade phù hợp cho sinh viên đó (dựa vào các giá trị đã nhập vào và quy tắc xếp loại của trường).</p>
 <p>Ứng dụng cần phải đảm bảo các chức năng cơ bản. Tuy nhiên, bạn có thể thêm chức năng bổ sung vào ứng dụng của bạn, nếu bạn muốn.</p>
-<p><strong>Phần 1: Chức năng và yêu cầu cơ bản</strong></p>
+<p><strong>Giao diện và chức năng cơ bản</strong></p>
 <p><strong>1.<span style="white-space: pre;"> </span>Thiết kế giao diện</strong></p>
 <p>Giao diên được thiết kế đơn giản dễ nhìn chạy trên log conssole</p>
 <p style="font-size: 16px;"><img src="https://github.com/NguyenDuongw/StudentPointsApplication/blob/main/description11.JPG" alt="File preview"></p>
-<p><strong>2.<span style="white-space: pre;"> </span>Yêu cầu chức năng cơ bản</strong></p>
+<p><strong>2.<span style="white-space: pre;"> </span>Chức năng cơ bản của chương trình</strong></p>
 <p>1.<span style="white-space: pre;"> </span>Khi chương trình được chạy, thì đầu tiên, sẽ hiển thị thông báo mô tả ngắn gọn về chương trình để người dùng hiểu được hệ thống này sẽ hoạt động thế nào, có chức năng gì. Ví dụ trong log trên thì thông báo hiển thị là: “This program reads exam/homework scores and reports your overall course grade”.&nbsp;</p>
 <p>2.<span style="white-space: pre;"> </span>Sau đó, người dùng sẽ nhập điểm thi giữa kỳ - Midterm: Trong điểm thi giữa kỳ thì thông tin cần nhập là:&nbsp;</p>
 <ul>
